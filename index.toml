@@ -1,0 +1,13 @@
+mtime = 1585309410
+[[pkgs]]
+type = "github"
+distrib = "avr5pmzaxndn6amg7dnakt"
+package = "AVR5PmzAXndN6AMG7DnAkT-1.0-py3-none-any"
+ext = "whl"
+sha256 = "f0ed5c40ac6376d140a66dc867b07deaadfeb9baa09aa8deb688995efc2da0fc"
+url = "https://api.github.com/repos/private-pypi-github-test-org/pywharf-github-test-20200327114315836217/releases/assets/19059875"
+
+[pkgs.meta]
+name = "AVR5PmzAXndN6AMG7DnAkT"
+distrib = "avr5pmzaxndn6amg7dnakt"
+sha256 = "f0ed5c40ac6376d140a66dc867b07deaadfeb9baa09aa8deb688995efc2da0fc"
